@@ -34,7 +34,7 @@ cd Starfleet
 Import the project into your IDE and ensure JDK settings are correct.
 
 ## Running the Project
-Run the "StarfleetManager" class from your IDE to start the simulation. Adjust parameters within the code to simulate different scenarios.
+Run the `StarfleetManager` class from your IDE to start the simulation. Adjust parameters within the code to simulate different scenarios.
 
 ## Usage
 Explore the project to understand the implementation of various spacecraft and crew management functionalities. The StarfleetTester class can be used to test and demonstrate the functionality of the created starfleet management system.
